@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Programmesana\C#\TestingUi\bin\Debug\TestingUi.exe.config
+C:\Users\Administrator\Documents\Programmesana\C#\TestingUi\bin\Debug\TestingUi.exe
+C:\Users\Administrator\Documents\Programmesana\C#\TestingUi\bin\Debug\TestingUi.pdb
+C:\Users\Administrator\Documents\Programmesana\C#\TestingUi\bin\Debug\AraLibraries.dll
+C:\Users\Administrator\Documents\Programmesana\C#\TestingUi\bin\Debug\AraLibraries.pdb
+C:\Users\Administrator\Documents\Programmesana\C#\AraLibraries\ObjDir\2019\TestingUi\TestingUi.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Programmesana\C#\AraLibraries\ObjDir\2019\TestingUi\TestingUi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Programmesana\C#\AraLibraries\ObjDir\2019\TestingUi\TestingUi.csproj.CopyComplete
+C:\Users\Administrator\Documents\Programmesana\C#\AraLibraries\ObjDir\2019\TestingUi\TestingUi.exe
+C:\Users\Administrator\Documents\Programmesana\C#\AraLibraries\ObjDir\2019\TestingUi\TestingUi.pdb

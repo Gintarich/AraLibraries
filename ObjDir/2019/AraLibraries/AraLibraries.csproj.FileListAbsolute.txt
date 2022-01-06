@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Programmesana\C#\AraLibraries\ObjDir\2019\AraLibraries\AraLibraries.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Programmesana\C#\AraLibraries\bin\Debug\AraLibraries.dll
+C:\Users\Administrator\Documents\Programmesana\C#\AraLibraries\bin\Debug\AraLibraries.pdb
+C:\Users\Administrator\Documents\Programmesana\C#\AraLibraries\ObjDir\2019\AraLibraries\AraLibraries.dll
+C:\Users\Administrator\Documents\Programmesana\C#\AraLibraries\ObjDir\2019\AraLibraries\AraLibraries.pdb
+C:\Users\Administrator\Documents\Programmesana\C#\AraLibraries\ObjDir\2019\AraLibraries\AraLibraries.csproj.AssemblyReference.cache
